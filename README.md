@@ -1,2 +1,22 @@
-# awesome-community-building
+# Awesome Community Building
 A curated list of awesome resources on building developer communities. 🥑
+
+
+## Books 📚
++ [The Business Value of Developer Relations: How and Why Technical Communities Are Key To Your Success](https://www.amazon.com/dp/1484237471) - A great book to understand the value of DevRel by Mary Thengvall.
++ [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862) - An inside look at modern open source software developers by Nadia Eghbal.
++ [Developer Marketing Does Not Exist](https://www.amazon.com/dp/173702960X) - An awesome book to understand the difference between marketing and community building by Adam DuVander.
++ [Developer Marketing and Relations: The Essential Guide](https://www.devrelx.com/book) - A 101 on community building by DevRelx.
+
+
+## Articles 🗞️
++ [Building Welcoming Communities](https://opensource.guide/building-community/) - A guide on building engaging and inclusive communities.
++ [Open Source Metrics](https://opensource.guide/metrics/) - A guide on open source and community-relevant metrics.
++ [Building a developer community](https://www.alexdebrie.com/posts/building-developer-community/) - An insightful blog by Alex DeBrie about building community at Serverless.
++ [How to build a strong developer community](https://about.gitlab.com/blog/2016/11/23/how-to-build-a-strong-dev-community/) - An interstesting chat between Amanda Folson (GitLab) and Jasmine Anteunis (Recast.ai) on how GitLab approaches community-building, including a deep dive on developer advocacy. 
+
+
+## Podcasts 📣
++ [Under the Hood of Developer Marketing](https://www.devrelx.com/podcast) - Tech Industry pioneers from the world’s largest tech companies, share insight on developer marketing success. 
++ [Community Pulse](https://player.fm/series/community-pulse-1409158) - Interviews with experts in the field of Community Leadership and Management on a broad range of topics related to building community.
++ [The Community Corner](https://open.spotify.com/show/6AxTY7BvTvXzfmxiXq3AdZ) - Beth McIntyre interviews the world's best community builders in 15 minutes.
