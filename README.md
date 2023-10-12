@@ -15,9 +15,12 @@ A curated list of awesome resources on building developer communities. 🥑
 + [Building Welcoming Communities](https://opensource.guide/building-community/) - A guide on building engaging and inclusive communities.
 + [Open Source Metrics](https://opensource.guide/metrics/) - A guide on open source and community-relevant metrics.
 + [Building a developer community](https://www.alexdebrie.com/posts/building-developer-community/) - An insightful blog by Alex DeBrie about building community at Serverless.
-+ [How to build a strong developer community](https://about.gitlab.com/blog/2016/11/23/how-to-build-a-strong-dev-community/) - An interstesting chat between Amanda Folson (GitLab) and Jasmine Anteunis (Recast.ai) on how GitLab approaches community-building, including a deep dive on developer advocacy. 
++ [How to build a strong developer community](https://about.gitlab.com/blog/2016/11/23/how-to-build-a-strong-dev-community/) - An interesting chat between Amanda Folson (GitLab) and Jasmine Anteunis (Recast.ai) on how GitLab approaches community-building, including a deep dive on developer advocacy. 
 + [Tried (& Tested) Community Engagement Tricks To Revive Your Community](https://meetwaves.medium.com/tried-tested-community-engagement-tricks-to-revive-your-community-df176d4bc9fd) - An 8-part blog article on community engagement strategies.
 + [The Developer Advocate's Guide to Metrics and Reporting](https://theworst.dev/developer-advocates-guide-to-metrics-and-reporting) - A guide to metrics worth measuring for developer communities.
++ [How to Community](https://dx.tips/how-to-community) - 5 rules of Developer Community for new DevRel and devtools founders, by @sw-yx.
++ [Using Brain Chemistry to Build 0-to-1 Developer Communities](https://www.heavybit.com/library/article/how-to-build-zero-to-one-developer-communities) - Developer advocate Don Goodman-Wilson shares his secret weapon to building developer communities from zero: Neuroscience.
++ [Increase community engagement with trunk-based management](https://www.crowd.dev/post/increase-community-engagement-with-trunk-based-management) - A story by Flo Merian about applying the Trunk-Based Development (TBD) strategy to community management.
 
 
 ## Podcasts 📣
